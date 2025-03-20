@@ -5,7 +5,7 @@ I'm a **beginner in data analytics**, currently exploring the exciting world of 
 ---
 
 ## 🌟 About Me:
-- 🎓 Learning data analysis now through **[Youtube, Kaggle]**.
+- 🎓 Learning data analysis now through **[PHYSICS WALLAH SKILLS, Kaggle]**.
 - 🧑‍💻 Practicing Python, SQL, and Excel for data wrangling and analysis.
 - 📊 Exploring tools like Tableau, Power BI, and Matplotlib for data visualization.
 - 🧐 Interested in solving real-world problems with data.
